@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="localhost" id="194813ed-d600-4a49-972b-d4b8b4ff2f8e" port="22" customName="wp-plugin-ple" nameFormat="CUSTOM">
+        <option name="customName" value="wp-plugin-ple" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

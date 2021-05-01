@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c47d18b8-4e58-42b0-9424-e522e77fa09b" name="wp-plugin-ple">
+        <fileTransfer rootFolder="/var/www/betawp.jtclabs.com/wp-content/plugins/plugin-passwordless" accessType="SFTP" host="173.212.248.236" port="22" sshConfigId="8b8b4078-1bad-458d-8d47-4adbcdc4e0b1" sshConfig="jtc dev server" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
