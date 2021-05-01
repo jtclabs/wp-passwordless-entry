@@ -31,6 +31,8 @@ Please note, that for all intents and purposes this does not conform to the spec
 
 Simply install and activate the plugin, however this plugin does require working mail functionalities, either through your web hosting, or through a third party provider such as Amazon SES or Mailgun etc.
 
+To request your password you can either visit yourwebsite.com/your-wordpress-installation and append `?ple=true`, or you can add the shortcode `ple` to a page or post, and embed the request form there.
+
 == Changelog ==
 
 1.0.0 Initial release with basic single-use-link functionality.
