@@ -7,7 +7,7 @@ Tags: authentication passwordless administration admin 2fa
 Author URI: https://johnothecoder.uk
 Author: JohnoTheCoeer
 Requires at least: 5.7.0
-Tested up to: 5.7.1
+Tested up to: 6.9.1
 Stable tag: 1.0.0
 Version: 1.0.0
 License: GPLv2 or later
